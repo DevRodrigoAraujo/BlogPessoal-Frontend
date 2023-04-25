@@ -1,2 +1,2 @@
 # ReactBlogPessoal
-<a href="https://github.com/lucas-alexandrino/blog_pessoal" target="_blank" >Back-end do Projeto</a>
+<a href="https://github.com/rodhtml/blogpessoal" target="_blank" >Back-end do Projeto</a>
